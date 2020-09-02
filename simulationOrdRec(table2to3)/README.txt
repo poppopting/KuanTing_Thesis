@@ -1,3 +1,3 @@
 =============== simulation_OrdRec.py=============
-simulation recommemder sysyem ªºµ{¦¡ ·|¥Í¦¨ M_100_N_500.csv(table2)
-¥H¤Î M_900_N_1600.csv(table3)
+simulation recommemder sysyem æœƒç”Ÿæˆ M_100_N_500.csv(table2)
+ä»¥åŠ M_900_N_1600.csv(table3)
